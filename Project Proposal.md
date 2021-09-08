@@ -1,4 +1,4 @@
-**<p style="text-align: center;">WTWY Project</p>**
+**Project Gala**
 
 **Question:**
 
