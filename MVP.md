@@ -4,6 +4,7 @@
     # Project Gala MVP
 </p>
 
-![Top 10 Stations](https://user-images.githubusercontent.com/89528655/133324676-64741c3f-8c92-4186-8513-0012f7e1662c.png)
+![Top 10 Stations](https://user-images.githubusercontent.com/89528655/133327202-2db973cd-30a2-4aa7-a1f8-a8a057bfddc3.png)
+![Busiest Days](https://user-images.githubusercontent.com/89528655/133327201-fc34f90a-f6bc-45d5-a89d-f5c056a718b1.png)
 
-![Busiest Days](https://user-images.githubusercontent.com/89528655/133326215-45e6c75d-6a44-452d-b465-7e81bc8a1b6d.png)
+
