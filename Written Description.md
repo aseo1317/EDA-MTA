@@ -19,7 +19,7 @@ _Determining Top Traffic Stations_
 5. Summing all of a station's foot traffic by day
 6. Summing all of a station's total traffic during the observed period 
 
-_Determining Top Traffic Stations_
+_Determining Top Traffic Days_
 
 1-5 The same steps used to determine top traffic stations above
 
